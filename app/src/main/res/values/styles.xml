@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <array name="subjects">
+
+        <item>English</item>
+        <item>Science</item>
+        <item>Mathematics</item>
+        <item>Sinhala</item>
+        <item>Buddhism</item>
+    </array>
+
+
+    <array name="modes">
+
+        <item>Zoom</item>
+        <item>MS Teams</item>
+
+    </array>
+
+</resources>
